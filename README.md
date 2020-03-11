@@ -45,17 +45,16 @@ GOOGLE | SEARCHING
 	👹	:japanese_ogre:	👺	:japanese_goblin:	
 	👻	:ghost:	👽	:alien:	
 	👾	:space_invader:	🤖	:robot:	
-Cat Face
-ico	shortcode	ico	shortcode	
+	
 	😺	:smiley_cat:	😸	:smile_cat: 
 	😹	:joy_cat:	😻	:heart_eyes_cat:	
 	😼	:smirk_cat:	😽	:kissing_cat:	
 	🙀	:scream_cat:	😿	:crying_cat_face:	
 	😾	:pouting_cat:			
-Monkey Face
+
 🙈	:see_no_evil:	🙉	:hear_no_evil:	
 🙊	:speak_no_evil:			
-Emotion	
+
 	💋	:kiss:	💌	:love_letter:	
 	💘	:cupid:	💝	:gift_heart:		💖	:sparkling_heart:	💗	:heartpulse:	
 	💓	:heartbeat:	💞	:revolving_hearts:	
