@@ -53,24 +53,21 @@ ico	shortcode	ico	shortcode
 	🙀	:scream_cat:	😿	:crying_cat_face:	
 	😾	:pouting_cat:			
 Monkey Face
-ico	shortcode	ico	shortcode	
 🙈	:see_no_evil:	🙉	:hear_no_evil:	
 🙊	:speak_no_evil:			
-Emotion
-ico	shortcode	ico	shortcode	
+Emotion	
 	💋	:kiss:	💌	:love_letter:	
-	💘	:cupid:	💝	:gift_heart:		💖	:sparkling_heart:	💗	:heartpulse:	top
-top	💓	:heartbeat:	💞	:revolving_hearts:	top
-top	💕	:two_hearts:	💟	:heart_decoration:	top
-top	❣️	:heavy_heart_exclamation:	💔	:broken_heart:	top
-top	❤️	:heart:	💛	:yellow_heart:	top
-top	💚	:green_heart:	💙	:blue_heart:	top
-top	💜	:purple_heart:	🖤	:black_heart:	top
-top	💯	:100:	💢	:anger:	top
-top	💥	:boom:
-:collision:	💫	:dizzy:	top
-top	💦	:sweat_drops:	💨	:dash:	top
-top	🕳	:hole:	💣	:bomb:	top
-top	💬	:speech_balloon:	👁‍🗨	:eye_speech_bubble:	top
-top	🗯	:right_anger_bubble:	💭	:thought_balloon:	top
-top	💤	:zzz:			
+	💘	:cupid:	💝	:gift_heart:		💖	:sparkling_heart:	💗	:heartpulse:	
+	💓	:heartbeat:	💞	:revolving_hearts:	
+💕	:two_hearts:	💟	:heart_decoration:	
+	❣️	:heavy_heart_exclamation:	💔	:broken_heart:	
+	❤️	:heart:	💛	:yellow_heart:	
+	💚	:green_heart:	💙	:blue_heart:	
+	💜	:purple_heart:	🖤	:black_heart:	
+💯	:100:	💢	:anger:	
+	💥	:boom:
+:collision:	💫	:dizzy:	
+	💦	:sweat_drops:	💨	:dash:	
+	🕳	:hole:	💣	:bomb:	
+	💬	:speech_balloon:	👁‍🗨	:eye_speech_bubble:	
+	🗯	:right_anger_bubble:	💭	:thought_balloon:		💤	:zzz:			
